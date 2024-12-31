@@ -5,5 +5,4 @@
 
  # name 
  new project -> for the school
- created by Star
- 
+ created by Star.
